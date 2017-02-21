@@ -1,4 +1,4 @@
-This is a small writeup for the OVAL comparer authored by Brett Gurman, Hardik Jhaveri, and Rujuta Palande. 
+This is a small writeup for the OVAL comparer. 
 
 Our basic approach was to create classes for each of the non-terminal elements in both the definition schema and the system configuration schema, as well as a few additional classes for our results schema. After then annotating these classes with the appropriate XML decorator tags, Java-built-in-functions marshall and unmarshall allowed us to trivially go from a definitions or SC file to plain java objects, or vice versa.
 
