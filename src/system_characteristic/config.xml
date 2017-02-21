@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oval_definitions>	
+	<system_data>
+		<file_item id="oval:mil.disa.fso.windows:ste:495800" version="1" comment="enabled">
+				<value datatype="int" operation="equals">0</value>
+		</file_item>	
+	</system_data>
+</oval_definitions>
