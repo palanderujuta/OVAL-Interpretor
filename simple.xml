@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oval_definitions>
+    <results>
+        <definitions>
+            <definition id="oval:mil.disa.fso.windows:def:3695" version="5" result="false"/>
+        </definitions>
+    </results>
+</oval_definitions>
